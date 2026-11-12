@@ -1,0 +1,13 @@
+{
+  "organisation": "Example Organisation",
+  "assessed_on": "2026-01-15",
+  "stage": "understand",
+  "answers": {
+    "SO1": 3, "SO2": 3, "SO3": 2, "SO4": 3, "SO5": 2,
+    "PC1": 2, "PC2": 3, "PC3": 2, "PC4": 2, "PC5": 3,
+    "DA1": 1, "DA2": 1, "DA3": 1, "DA4": 2, "DA5": 3,
+    "PS1": 2, "PS2": 2, "PS3": 3, "PS4": 2, "PS5": 2,
+    "GR1": 3, "GR2": 4, "GR3": 3, "GR4": 3, "GR5": 4,
+    "OC1": 2, "OC2": 2, "OC3": 1, "OC4": 2, "OC5": 2
+  }
+}
